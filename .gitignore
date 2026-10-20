@@ -1,0 +1,16 @@
+node_modules
+.vercel
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+homepage.html
+episode.html
+series.html
+hentaiplayer.html
+player_php.html
+app.js
+scratch/
